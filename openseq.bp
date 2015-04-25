@@ -1,0 +1,5 @@
+      openseq "SEQFILE", recordID to f.handle on error
+         stop 'FATAL: Unable to open ':recordID:' in ':pgm
+      end else
+         stop 'ERROR: Unable to open ':recordID:' in ':pgm
+      end

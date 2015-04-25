@@ -1,0 +1,9 @@
+*
+*---- Process file
+*
+      eof=@false
+      loop
+         readseq inrec from f.handle else eof=@true
+      until eof
+         gosub process.inrec
+      repeat

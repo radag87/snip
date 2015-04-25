@@ -1,0 +1,3 @@
+      writeseq outline to f.handle on error
+         stop 'FATAL: Unable to write to ':filename:' in ':pgm
+      end

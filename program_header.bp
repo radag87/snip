@@ -1,0 +1,20 @@
+* Program Created by (#system /Users/raul/bin/userid.sh#) #DATETIME MMM d YYYY# (PID=9999)
+#INSERTION#
+**********************************************************************
+* COPYRIGHT - #DATETIME YYYY# BY THE NEIMAN MARCUS GROUP INC.
+* INFORMATION CONTAINED HEREIN IS CONFIDENTIAL AND PROPRIETARY TO
+* THE NEIMAN MARCUS GROUP INC. AND SHALL NOT BE DUPLICATED, USED
+* OR OTHERWISE DISCLOSED WITHOUT EXPRESS PERMISSION OF NEIMAN MARCUS
+* MANAGEMENT.
+* SYSTEM       -
+* SUBSYSTEM    -
+* MODULE       -
+* PROGRAM      - #BASENAME#
+* AUTHOR       - #NAME#
+* DATE         - #DATE# #TIME# 
+* DESCRIPTION  -
+* PROCESS FLOW -
+* ARGUMENT DESCRIPTIONS -
+*
+* ENDDOC
+**********************************************************************

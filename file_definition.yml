@@ -1,0 +1,32 @@
+* File Created by (USERID) TIMESTAMP
+**********************************************************************
+* COPYRIGHT - YYYY BY THE NEIMAN MARCUS GROUP INC.
+* INFORMATION CONTAINED HEREIN IS CONFIDENTIAL AND PROPRIETARY TO
+* THE NEIMAN MARCUS GROUP INC. AND SHALL NOT BE DUPLICATED, USED
+* OR OTHERWISE DISCLOSED WITHOUT EXPRESS PERMISSION OF NEIMAN MARCUS
+* MANAGEMENT.
+* SYSTEM       -
+* SUBSYSTEM    -
+* MODULE       -
+* FILE         - FILENAME
+* AUTHOR       - USERID
+* DATE         - TIMESTAMP
+* DESCRIPTION  -
+* ENDDOC
+**********************************************************************
+---
+file:        FILENAME
+prefix:      FILEPREFIX
+description: >
+  FILEDESCRIPTION
+field:
+   - name:     FIELDNAME
+     type:     D/I
+     position: 0,1,2,3…
+     formula:  TRANS(FILE),FIELD(@ID,’*’,1)
+     conv:     MD0,D2/
+     heading:  COLUMNHEADING
+     format:   10L,10R2
+     depth:    S,M
+     assoc:    MVASSOCIATION
+     comment:  INSERTCOMMENT

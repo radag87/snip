@@ -1,0 +1,5 @@
+      open "DUNS.SUPPLIERSITE.XREF" to f.duns.suppliersite.xref on error
+         stop 'FATAL: Unable to open DUNS.SUPPLIERSITE.XREF in ':pgm
+      end else
+         stop 'ERROR: Unable to open DUNS.SUPPLIERSITE.XREF in ':pgm
+      end

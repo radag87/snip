@@ -1,0 +1,29 @@
+PAragraph created by USERNAME TIMESTAMP (PID=9999)
+*
+* ***********************************************************************
+* SYSTEM      - 
+* SUBSYSTEM   - 
+* MODULE      - 
+* PROCESS     - PROCESS.NAME
+* DESCRIPTION - 
+*
+* ENDDOC
+* ***********************************************************************
+*     Updated by USERNAME at TIMESTAMP for SR#PROJECTNO
+*
+      COMO APPEND PROCESS.NAME
+      DISPLAY PID=9999
+      WHO
+START.PROCESS: *
+* ***********************************************************************
+* ***********************************************************************
+*
+*
+* ***********************************************************************
+* ***********************************************************************
+END.PROCESS: *
+      COMO OFF
+      GO END.PARAGRAPH
+ABORT.PROCESS: *
+      ABORT
+END.PARAGRAPH: *
